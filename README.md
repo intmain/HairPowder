@@ -2,11 +2,16 @@ HairPowder (~FuckXDesign~)
 ==========
 
 ![Swift](https://img.shields.io/badge/Swift-4.0-orange.svg)
+[![CocoaPods](http://img.shields.io/cocoapods/v/HairPowder.svg?style=flat)](https://cocoapods.org/pods/HairPowder)
 
  
 Hair Powder for iPhoneX "M" Shape pattern baldness design
 
 ![hairpowder](pat.png)
+
+## Install
+### CocoaPods
+Add `pod 'HairPowder'` to your Podfile.
 
 ##Usage
 

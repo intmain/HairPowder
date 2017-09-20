@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HairPowder'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Hair Powder for iPhoneX "M" Shape pattern baldness design'
   s.homepage         = 'https://github.com/intmain/HairPowder'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
