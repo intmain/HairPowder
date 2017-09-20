@@ -5,7 +5,8 @@ HairPowder (~FuckXDesign~)
 [![CocoaPods](http://img.shields.io/cocoapods/v/HairPowder.svg?style=flat)](https://cocoapods.org/pods/HairPowder)
 
  
-Hair Powder for iPhoneX "M" Shape pattern baldness design
+Hair Powder for iPhoneX "M" Shape pattern baldness design.
+I hate iPhone X design. It can be rejected if you use this open source(https://developer.apple.com/ios/human-interface-guidelines/overview/iphone-x/). Use this If you don't care Guidelines
 
 ![hairpowder](pat.png)
 
@@ -43,4 +44,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 ```
 ## LICENSE
-MIT
+HairPowder is under MIT license. See the [LICENSE](LICENSE) file for more info.
