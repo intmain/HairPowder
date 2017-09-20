@@ -46,8 +46,8 @@ open class HairPowder {
     
     
     private var statusWindow: UIWindow = {
-        let width = (UIApplication.shared.delegate as? AppDelegate)?.window?.frame.width ?? 0
-        let height = (UIApplication.shared.delegate as? AppDelegate)?.window?.frame.height ?? 0
+        let width = UIApplication.shared.keyWindow?.frame.width ?? 0
+        let height = UIApplication.shared.keyWindow?.frame.height ?? 0
         
         let statusWindow = UIWindow(frame: CGRect(x: 0, y: 0, width: width, height: 0))
         statusWindow.windowLevel = UIWindowLevelStatusBar - 1
@@ -60,7 +60,7 @@ open class HairPowder {
     }()
     
     public func spread() {
-        guard let window = (UIApplication.shared.delegate as? AppDelegate)?.window else { return }
+        guard let window = UIApplication.shared.keyWindow else { return }
         if #available(iOS 11.0, *) {
             if window.safeAreaInsets.top > 0.0 {
                 DispatchQueue.main.async { [weak self] in
