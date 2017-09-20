@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D73DD3811F729DFB0014AC1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D73DD3801F729DFB0014AC1D /* AppDelegate.swift */; };
-		D73DD3831F729DFB0014AC1D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D73DD3821F729DFB0014AC1D /* ViewController.swift */; };
 		D73DD3861F729DFB0014AC1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D73DD3841F729DFB0014AC1D /* Main.storyboard */; };
 		D73DD3881F729DFB0014AC1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D73DD3871F729DFB0014AC1D /* Assets.xcassets */; };
 		D73DD38B1F729DFB0014AC1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D73DD3891F729DFB0014AC1D /* LaunchScreen.storyboard */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		D73DD37D1F729DFB0014AC1D /* HairPowder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HairPowder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D73DD3801F729DFB0014AC1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D73DD3821F729DFB0014AC1D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D73DD3851F729DFB0014AC1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D73DD3871F729DFB0014AC1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D73DD38A1F729DFB0014AC1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +56,6 @@
 			isa = PBXGroup;
 			children = (
 				D73DD3801F729DFB0014AC1D /* AppDelegate.swift */,
-				D73DD3821F729DFB0014AC1D /* ViewController.swift */,
 				D73DD3841F729DFB0014AC1D /* Main.storyboard */,
 				D73DD3871F729DFB0014AC1D /* Assets.xcassets */,
 				D73DD3891F729DFB0014AC1D /* LaunchScreen.storyboard */,
@@ -147,7 +144,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D73DD3831F729DFB0014AC1D /* ViewController.swift in Sources */,
 				D73DD3AF1F729E1B0014AC1D /* HairPowder.swift in Sources */,
 				D73DD3811F729DFB0014AC1D /* AppDelegate.swift in Sources */,
 			);
