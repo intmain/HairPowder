@@ -8,6 +8,9 @@ HairPowder (~FuckXDesign~)
 Hair Powder for iPhoneX "M" Shape pattern baldness design.
 I hate iPhone X design. It can be rejected if you use this open source(https://developer.apple.com/ios/human-interface-guidelines/overview/iphone-x/). Use this If you don't care Guidelines
 
+![https://twitter.com/DasBule/status/910871022584434689](./s.png "https://twitter.com/DasBule/status/910871022584434689")
+[Source](https://twitter.com/DasBule/status/910871022584434689)
+
 ![hairpowder](pat.png)
 
 ## Install

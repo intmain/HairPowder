@@ -65,7 +65,9 @@ open class HairPowder {
             if window.safeAreaInsets.top > 0.0 {
                 DispatchQueue.main.async { [weak self] in
                     self?.statusWindow.makeKeyAndVisible()
-                    window.makeKey()
+                    DispatchQueue.main.async { [weak self] in
+                        window.makeKey()
+                    }
                 }
             }
         }
