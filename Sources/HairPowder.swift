@@ -9,7 +9,7 @@
 import UIKit
 
 open class HairPowder {
-    static let instance = HairPowder()
+    public static let instance = HairPowder()
     
     private class HairPowderView: UIView {
         static let cornerRadius: CGFloat = 40
