@@ -49,3 +49,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 ```
 ## LICENSE
 HairPowder is under MIT license. See the [LICENSE](LICENSE) file for more info.
+
+## 이 오픈소스의 소유자
+
+오진성 (intmain@hotmail.com)
+
+
+
